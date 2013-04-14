@@ -1,0 +1,12 @@
+body{
+	font-family:verdana,sans-serif;
+}
+
+#page-container{
+	width:960px;
+	margin:0 auto;
+}
+h1{
+	text-align:center;
+	color:#ddd;
+}
